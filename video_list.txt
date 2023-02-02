@@ -1,0 +1,1 @@
+example_video.MOV start_frame end_frame (-1 for end of video) number_of_sample_pictures
